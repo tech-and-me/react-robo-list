@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-robo-list/static/css/main.fb69745b.css",
+    "main.js": "/react-robo-list/static/js/main.16ba2fc4.js",
+    "index.html": "/react-robo-list/index.html",
+    "main.fb69745b.css.map": "/react-robo-list/static/css/main.fb69745b.css.map",
+    "main.16ba2fc4.js.map": "/react-robo-list/static/js/main.16ba2fc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb69745b.css",
+    "static/js/main.16ba2fc4.js"
+  ]
+}
